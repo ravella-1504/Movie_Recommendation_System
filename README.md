@@ -12,7 +12,7 @@ pip install numpy pandas scikit-learn
 
 Getting Started
 **Clone the repository:**
-https://github.com/ravella-1504/Movie_Recommendation_System.git
+git clone https://github.com/ravella-1504/Movie_Recommendation_System.git
 
 **Change into the project directory:**
 cd Movie-Recommendation-System
